@@ -1,0 +1,13 @@
+C:\Users\dejai_000\Desktop\Aula24Fibonacci\bin\Debug\netcoreapp3.1\Aula24Fibonacci.exe
+C:\Users\dejai_000\Desktop\Aula24Fibonacci\bin\Debug\netcoreapp3.1\Aula24Fibonacci.deps.json
+C:\Users\dejai_000\Desktop\Aula24Fibonacci\bin\Debug\netcoreapp3.1\Aula24Fibonacci.runtimeconfig.json
+C:\Users\dejai_000\Desktop\Aula24Fibonacci\bin\Debug\netcoreapp3.1\Aula24Fibonacci.runtimeconfig.dev.json
+C:\Users\dejai_000\Desktop\Aula24Fibonacci\bin\Debug\netcoreapp3.1\Aula24Fibonacci.dll
+C:\Users\dejai_000\Desktop\Aula24Fibonacci\bin\Debug\netcoreapp3.1\Aula24Fibonacci.pdb
+C:\Users\dejai_000\Desktop\Aula24Fibonacci\obj\Debug\netcoreapp3.1\Aula24Fibonacci.csprojAssemblyReference.cache
+C:\Users\dejai_000\Desktop\Aula24Fibonacci\obj\Debug\netcoreapp3.1\Aula24Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\dejai_000\Desktop\Aula24Fibonacci\obj\Debug\netcoreapp3.1\Aula24Fibonacci.AssemblyInfoInputs.cache
+C:\Users\dejai_000\Desktop\Aula24Fibonacci\obj\Debug\netcoreapp3.1\Aula24Fibonacci.AssemblyInfo.cs
+C:\Users\dejai_000\Desktop\Aula24Fibonacci\obj\Debug\netcoreapp3.1\Aula24Fibonacci.dll
+C:\Users\dejai_000\Desktop\Aula24Fibonacci\obj\Debug\netcoreapp3.1\Aula24Fibonacci.pdb
+C:\Users\dejai_000\Desktop\Aula24Fibonacci\obj\Debug\netcoreapp3.1\Aula24Fibonacci.genruntimeconfig.cache
